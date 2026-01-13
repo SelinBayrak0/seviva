@@ -6,3 +6,6 @@ Seviva is a simple e-commerce website built with **ReactJS**. It was created for
 * Open the terminal inside the project folder.
 * Run `npm install` to restore the node_modules folder.
 * Run `npm start` to open the project in your web browser.
+
+## Repository link
+https://github.com/SelinBayrak0/seviva
