@@ -47,3 +47,4 @@ const navigate = useNavigate();
 }
 
 export default Cart;
+
